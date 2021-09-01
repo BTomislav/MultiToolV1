@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">MultiTool</string>
+    <string name="_0">0</string>
+    <string name="_4">4</string>
+    <string name="mnozenje">*</string>
+    <array name="prvi">
+        <item>Temperatura</item>
+        <item>Duljina</item>
+        <item>Valuta</item>
+        <item>Masa</item>
+        <item>Brzina</item>
+        <item>Vrijeme</item>
+    </array>
+    <array name="tempizb">
+        <item>Celzijus</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </array>
+    <array name="duljinaizb">
+        <item>Kilometar</item>
+        <item>Hektometar</item>
+        <item>Metar</item>
+        <item>Decimetar</item>
+        <item>Centimetar</item>
+        <item>Milimetar</item>
+        <item>Mikrometar</item>
+        <item>Nanometar</item>
+        <item>Inč</item>
+        <item>Stopa</item>
+        <item>Jard</item>
+        <item>Milja</item>
+    </array>
+    <array name="valutaizb">
+        <item>HRK</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>CHF</item>
+        <item>DKK</item>
+        <item>CZK</item>
+        <item>CAD</item>
+        <item>NOK</item>
+    </array>
+    <array name="masaizb">
+        <item>Tona</item>
+        <item>Kilogram</item>
+        <item>Dekagram</item>
+        <item>Gram</item>
+        <item>Miligram</item>
+        <item>Mikrogram</item>
+        <item>Ounce</item>
+        <item>Pound</item>
+        <item>Stone</item>
+    </array>
+    <array name="brzinaizb">
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>ft/s</item>
+        <item>mph</item>
+        <item>knot</item>
+        <item>Jard/s</item>
+    </array>
+    <array name="vrijemeizb">
+        <item>Sekunda</item>
+        <item>Milisekunda</item>
+        <item>Minuta</item>
+        <item>Sat</item>
+        <item>Dan</item>
+        <item>Tjedan</item>
+        <item>Mjesec</item>
+        <item>Godina</item>
+    </array>
+</resources>
